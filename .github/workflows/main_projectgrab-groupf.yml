@@ -52,4 +52,4 @@ jobs:
           app-name: 'ProjectGrab-GroupF'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6AAA60516464A4189450EFF666E7F62 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_131807B19D9A4D479303FB7773B4054C }}
